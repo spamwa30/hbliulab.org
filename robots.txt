@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://velosbet77.hbliulab.org/sitemap.xml
